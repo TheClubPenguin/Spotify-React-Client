@@ -4,14 +4,64 @@
   "testing": [],
   "todo": [
     {
-      "creation_time": "2020-05-28T22:52:27.665Z",
+      "creation_time": "2020-05-30T21:19:41.843Z",
       "description": {
-        "content": "Create the user interface in React.",
+        "content": "Connect to the server to be able to send messages back and forth",
+        "mime": "text/markdown"
+      },
+      "id": "4",
+      "prio": 9001,
+      "references": [],
+      "title": "Chat App"
+    },
+    {
+      "creation_time": "2020-05-30T21:20:57.297Z",
+      "description": {
+        "content": "Link Web Sockets ",
+        "mime": "text/markdown"
+      },
+      "id": "5",
+      "prio": 9001,
+      "references": [],
+      "title": "Server Socket Communication"
+    },
+    {
+      "assignedTo": {
+        "name": "Chris Stanley"
+      },
+      "creation_time": "2020-05-30T21:17:39.180Z",
+      "description": {
+        "content": "Login Used for the Spotify Api",
+        "mime": "text/markdown"
+      },
+      "details": {
+        "content": "Log In\nMake Pretty",
         "mime": "text/markdown"
       },
       "id": "1",
       "references": [],
-      "title": "Create Basic UI"
+      "title": "Landing Page"
+    },
+    {
+      "creation_time": "2020-05-30T21:17:54.252Z",
+      "description": {
+        "content": "This is the main app page that contains the Chat, Player, And playlist features",
+        "mime": "text/markdown"
+      },
+      "id": "2",
+      "references": [],
+      "title": "Music Page"
+    },
+    {
+      "creation_time": "2020-05-30T21:18:26.029Z",
+      "details": {
+        "content": "Nobody Loves CSS",
+        "mime": "text/markdown"
+      },
+      "id": "3",
+      "prio": -9001,
+      "references": [],
+      "title": "CSS"
     }
   ]
 }
