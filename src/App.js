@@ -8,7 +8,7 @@ function App() {
     <Router>
       <Switch>
         <Route exact path = "/">
-          <Chat />
+          <a href='http://localhost:8000/login'> Login to Spotify </a>
         </Route>
       </Switch>
     </Router>
