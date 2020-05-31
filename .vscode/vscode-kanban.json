@@ -1,6 +1,24 @@
 {
   "done": [],
-  "in-progress": [],
+  "in-progress": [
+    {
+      "assignedTo": {
+        "name": "Chris Stanley"
+      },
+      "creation_time": "2020-05-30T21:17:39.180Z",
+      "description": {
+        "content": "Login Used for the Spotify Api",
+        "mime": "text/markdown"
+      },
+      "details": {
+        "content": "Log In\nMake Pretty",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "references": [],
+      "title": "Landing Page"
+    }
+  ],
   "testing": [],
   "todo": [
     {
@@ -24,23 +42,6 @@
       "prio": 9001,
       "references": [],
       "title": "Server Socket Communication"
-    },
-    {
-      "assignedTo": {
-        "name": "Chris Stanley"
-      },
-      "creation_time": "2020-05-30T21:17:39.180Z",
-      "description": {
-        "content": "Login Used for the Spotify Api",
-        "mime": "text/markdown"
-      },
-      "details": {
-        "content": "Log In\nMake Pretty",
-        "mime": "text/markdown"
-      },
-      "id": "1",
-      "references": [],
-      "title": "Landing Page"
     },
     {
       "creation_time": "2020-05-30T21:17:54.252Z",
